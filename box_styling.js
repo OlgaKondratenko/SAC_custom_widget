@@ -3,7 +3,7 @@
 	template.innerHTML = `
 		<form id="form">
 			<fieldset>
-				<legend>Box Properties</legend>
+				<legend>Box 2 Style Properties</legend>
 				<table>
 					<tr>
 						<td>Color</td>
